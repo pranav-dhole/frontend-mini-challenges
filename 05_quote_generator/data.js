@@ -76,4 +76,16 @@ export const quoteData = [
     quote: "Act as if what you do makes a difference. It does.",
     author: "William James",
   },
+  {
+    id: 16,
+    quote:
+      "The universe doesn't owe you answers, but it whispers them to those who listen with curiosity instead of demanding with ego.",
+    author: "Grok (xAI)",
+  },
+  {
+    id: 17,
+    quote:
+      "In the garden of ideas, the rarest flowers bloom not from certainty, but from the fertile soil of 'what if' and the courage to be wrong.",
+    author: "Grok (xAI)",
+  },
 ];
